@@ -1,0 +1,21 @@
+Interview Mode : Microsoft Teams (Video Based)
+Company Name : Info Vision(Bangalore)
+Date:07/12/2021 Duration:14 Minutes
+
+1)Introduce about yourself.
+
+2)What you did after your college life?
+
+3)List out the subjects what you learned in your college life.
+
+4)List out the Computer Science concepts that you learned in your college life.
+
+5)Explain about Data Structures.
+
+6)Explain about Linked List.
+
+7)Where you observed usage of Array and Linked List in real world.
+
+8)Walkthrough your current working projects.
+
+9)How did you know that form data is inserted into Database or not.

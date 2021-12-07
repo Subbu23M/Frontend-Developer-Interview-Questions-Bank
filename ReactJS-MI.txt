@@ -1,0 +1,82 @@
+Interview Mode : Telephonic Round
+DCT Academy ReactJS Mock Interview Questions 
+Date : 20/11/2021
+
+1)Why did you choosed ReactJS? 
+
+2)Explain about reconciliation process
+
+3)Difference between Library and Framework.
+
+4)How you pass data from parent to child and how you update state from child to parent.
+
+5)Explain about Styled Components.
+
+6)Features of ReactJS
+
+7)About Babel.js 
+
+8)How you update node module? Tell me the command.
+
+9)About key attribute in JSX
+
+10)Difference between Context API and Redux
+
+11)Alternatives for Redux
+
+12)Is props are mutable?
+
+13)Explain about High Order Components?
+
+14)Explain about Controlled Components.
+
+15)List out the node modules you used.
+
+16)Explain me about useEffect hook.
+
+17)How did you add data to the state variable using useEffect Hook.
+
+18)If state is available in parent component,it is passed to child component through props.
+   If state updates in parent,did child component also re-renders?
+
+19)In ReactJS data can be exchanged between siblings?
+
+20)How you optimimize multiple rerenders.
+
+21)Current version of ReactJS and explain me the latest features released in Version18.
+
+22)At which version Hooks are introduced.
+
+23)Explain me about Event Propagation.
+
+24)Explain me about Event Loop.
+
+25)Explain about Htttp status code 401,403,404,500.
+
+26)Explain me about Switch Component.
+
+27)Explain me about propTypes
+
+28)Explain me about lazy loading.
+
+29)Limitations of ReactJS.
+
+30)Explain me about Server Side Rendering.
+
+31)How to write comments in JSX.
+
+32)How to implement default or NotFound page?
+
+33)Explain me about closures?
+
+34)What is error boundaries?
+
+35)Explain me about <React.StrictMode></React.StrictMode>
+
+36)Explain me about CSS Box -sizing model , Flexbox and Grid.
+
+37)Rules while using Hooks.
+
+38)command for creating Git Branch.
+
+39)Explain me about react-router-dom properties.

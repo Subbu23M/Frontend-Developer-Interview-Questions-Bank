@@ -1,0 +1,47 @@
+Interview Mode : Zoom Call (Video Based)
+Company Name : NetServ(Bangalore)
+Date:04/12/2021 Duration:17 Minutes
+
+1)Introduce about yourself.
+
+2)Why you choosen ReactJS.
+
+3)Explain the difference between React and Angular.
+
+4)Explain about Local Storage and Session Storage.
+
+5)List out the Hooks other than useState,which you implemented.
+
+6)Explain about the term render
+
+7)Explain about JSX
+
+8)How did you install create-react-app 
+
+9)Explain about webpack
+
+10)Explain about React Life Cycle methods.
+
+11)How did you find unique elements in array.
+
+12)Explain logic to find 2nd Largest number in Array.
+
+13)In any three situations you find difficulty while working with JavaScript.
+
+14)Explain about Gulp.JS and Crunch.JS and Babel.JS 
+
+15)Explain about Arrow functions.
+
+16)In which situations you find advantage while working with ES5 functions and ES6 Arrow functions 
+
+17)Explain about Single Page Application.
+
+18)Why there are Year gaps after completing your College life.
+
+19)List out CSS frameworks,which you used.
+
+20) Hint - Questions revolving mostly,around Class Based Components.
+
+21)What will happen without render in React Components.
+
+22)Explain about package.json file.

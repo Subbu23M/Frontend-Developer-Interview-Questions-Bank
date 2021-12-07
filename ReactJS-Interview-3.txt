@@ -1,0 +1,29 @@
+Interview Mode : Zoom Call (Video Based)
+Company Name : Versatile Mobitech(Hyderabad)
+Date:04/12/2021 Duration:30 Minutes
+
+1)Explain the term HTML and which version you learned.
+
+2)Mostly used HTML tags while working with projects.
+
+3)Explain about container and container-fluid CSS properties.
+
+4)Explain about Bootstrap and which version you used.
+
+5)Explain the difference between React and Angular.
+
+6)Explain about Redux 
+
+7)Explain about redux-saga 
+
+8)Explain about props-drilling
+
+9)Explain about axios and XMLHttpRequest
+
+10)Explain about Media Queries
+
+11)Explain about responsive-design 
+
+12)Explain about Life Cycle Methods in ReactJS.
+
+13)Explain about <audio></audio> and <video></video> tags.How you will include file path.

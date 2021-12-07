@@ -1,0 +1,33 @@
+Interview Mode : Google Meet (Video Based)
+Company Name : Micro Pyramid(Hyderabad)
+Date:06/12/2021 Duration:30 Minutes
+
+1)Introduce Yourself.
+
+2)Explain the difference between function and class based components.
+
+3)Explain React Life Cycle Methods.
+
+4)What do you mean by Component?
+
+5)What are the Hooks you used and explain it.
+
+6)Explain about Redux and Context API.
+
+7)Explain about Promises.
+
+8)Explain the difference between Browser and Window.
+
+9)Explain about useEffect() Hook and Side Effects concept.
+
+10)Explain the difference between Local Storage and Session Storage.
+
+11)If there are three components,when we delete a particular component we should alert the user. How it is possible.
+
+12)Explain about Props Drilling.
+
+13)Explain the difference between Deep Copy and Shallow Copy.
+
+14)What are the concepts you learned in your institute.
+
+15)Is JavaScript Synchronous or Asynchronous in nature.

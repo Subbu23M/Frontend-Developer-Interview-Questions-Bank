@@ -1,0 +1,17 @@
+Interview Mode : Google Meet (Video Based)
+Company Name : Extended Web App Tech(Hyderabad)
+Date:07/12/2021 Duration:10 Minutes
+
+1)Introduce about yourself.
+
+2)Explain the difference between props and state.
+
+3)Explain about Git and Github. 
+
+4)What are the concepts you learned in your institute.
+
+5)Explain about npm and which modules did you used.
+
+6)Are you interested to work with Web or Mobile Apps.
+
+7)Explain about API's and CRUD operations.

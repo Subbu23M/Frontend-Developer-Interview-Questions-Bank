@@ -1,0 +1,17 @@
+Interview Mode : Zoom Call (Video Based)
+Company Name : Ixiono(Hyderabad)
+Date:30/11/2021 Duration : 12 Minutes
+
+1)Tell me about Youself.
+
+2)Explain me about ReactJS Features.
+
+3)Explain me about ReactJS limitations.
+
+4)Explain about ReactJS Component.
+
+5)Explain me about the term render.
+
+6)Explain me about State in ReactJS.
+
+7)Explain me about function component.

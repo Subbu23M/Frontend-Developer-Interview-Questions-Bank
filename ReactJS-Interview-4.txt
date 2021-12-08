@@ -16,7 +16,7 @@ Date:06/12/2021 Duration:30 Minutes
 
 7)Explain about Promises.
 
-8)Explain the difference between Browser and Window.
+8)Explain the difference between Browser and Window.Explain about cookies.
 
 9)Explain about useEffect() Hook and Side Effects concept.
 

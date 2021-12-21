@@ -2,4 +2,102 @@ Interview Mode :  Microsoft Teams(Video Based)
 Company Name : DigiSprint(Hyderabad)
 Date:21/12/2021 Duration: Minutes
 
-1)
+1)Introduce Yourself.
+
+2)Structure of HTML5 
+
+3)What we will include in <head></head> section.
+
+4)How will you display your name on screen using HTML.
+
+5)Explain about inline and block level elements.
+
+6)Explain about CSS Positions and difference between relative and absolute property.
+
+7)What are the ways to add CSS styles to HTML elements.
+
+8)What are semantic elements.
+
+9)How you add CSS for certain HTML element.
+
+10)How will you access class and id attributes.
+
+11)How will you select child element in, <div> <h1> Hello </h1> </div>
+
+12)Explain about Pseudo-element and Pseudo-class.
+
+13)Explain the key difference between display:none and visibility:hidden CSS property.
+
+14)How will you place image in background of the content.
+
+15)Explain about rem and em units.
+
+16)Explain about CSS font-size,font-family,font-weight.
+
+17)Where did you place External CSS file in HTML file and using which tag.
+
+18)In Bootstrap there are default colors, how will you add new color to element.Explain the way to add.
+
+19)What are the ways to place text in center on screen.
+
+20)Explain about <meta></meta> tags.
+
+21)What are the ways to add JavaScript source code in HTML file.
+
+22)Explain the methods to select HTML element using JavaScript.
+
+23)Explain about JavaScript.
+
+24)I suggested you to design Contact Form. What are the Form elements you are supposed to use. What are the main required fields.
+
+25)What are the ways to create dropdown menu.
+
+26)Explain about radio buttons
+
+27)Explain the differences between for...loop and forEach()
+
+28)Suppose if there are 10 elements in array. How will you display each element on UI.
+
+29)Explain about NaN,null and undefined.
+
+30)Explain about let and const.
+
+31)Explain about Data Types in JavaScript.
+
+32)Explain two ways to check type of NaN Data Type.
+
+33)What are the situations to use for...loop and forEach().
+
+34)Explain some of the ES6 features,which you used in DCT Academy Training.
+
+35)When you assigned a value to const,it wont accept reassign. Then how you are updating property in Object.
+const fullDetails = {
+    name:'dct',
+    place:'bangalore'
+}
+
+36)What are the difference between JavaScript and ReactJS.
+
+37)What is the purpose of using JavaScript.
+
+38)What are the features of ReactJS.
+
+39)What are the hooks you used in your training and Explain about Hooks.
+
+40)What is component.In how many ways we can create component.
+
+41)Explain ReactJS Life Cycle methods.
+
+42)Explain the difference between class based component and function based component.
+
+43)Explain about props and state.
+
+44)How will you place state in component.How did you update state. 
+
+45)At which version Hooks are introduced in react.
+
+46)What are the concepts you learned in ReactJS course.
+
+47)Explain about your projects which you mentioned in your resume.
+
+48)If you have any questions,you can ask me freely.

@@ -148,4 +148,6 @@ const fullDetails = {
 
 21)Explain about Promises.
 
-22)If you have any questions, ask me freely.
+22)What are the UI Design Tools you used.
+
+23)If you have any questions, ask me freely.

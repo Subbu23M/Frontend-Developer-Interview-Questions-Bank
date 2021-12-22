@@ -1,6 +1,8 @@
-Interview Mode :  Google Meet(Video Based) Round-One
+Interview Mode :  Google Meet(Video Based) 
 Company Name : DigiSprint(Hyderabad)
 Date:21/12/2021 Duration: 30 Minutes
+
+'---- Round-One --- '
 
 1)Introduce Yourself.
 
@@ -101,3 +103,49 @@ const fullDetails = {
 47)Explain about your projects which you mentioned in your resume.
 
 48)If you have any questions,you can ask me freely.
+
+' ---- Round - Two ---- '
+
+1)Introduce about Yourself.
+
+2)Explain about inline and block level elements.
+
+3)Explain about id and class in HTML.
+
+4)What are the ways to select HTML element in JavaScript.
+
+5)Explain about CSS positions.
+
+6)How you will place three boxes one after the other.
+
+7)Explain about padding and margin.
+
+8)What are semantic elements.
+
+9)Structure of HTML5.
+
+10)Explain about <div></div> tag.
+
+11)Out of 10 how much you can give for JavaScript and ReactJS knowledge.
+
+12)Explain about Synchronous and Asynchronous nature.
+
+13)API calls are synchronous in nature?
+
+14)Explain about Spread Operator.
+
+15)How will you stop code execution in JavaScript.
+
+16)Explain about render method.
+
+17)What are the commands used to install create-react-app.
+
+18)Explain Life Cycle Methods in ReactJS.
+
+19)Explain about Ananymous function.
+
+20)What are events in JavaScript.
+
+21)Explain about Promises.
+
+22)If you have any questions, ask me freely.

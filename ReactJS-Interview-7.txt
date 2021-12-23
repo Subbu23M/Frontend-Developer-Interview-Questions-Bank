@@ -1,8 +1,8 @@
+'---- Round-One --- '
+
 Interview Mode :  Google Meet(Video Based) 
 Company Name : DigiSprint(Hyderabad)
 Date:21/12/2021 Duration: 30 Minutes
-
-'---- Round-One --- '
 
 1)Introduce Yourself.
 
@@ -105,6 +105,10 @@ const fullDetails = {
 48)If you have any questions,you can ask me freely.
 
 ' ---- Round - Two ---- '
+
+Interview Mode :  Google Meet (Video Based) Round-Two
+Company Name : DigiSprint(Hyderabad)
+Date:22/12/2021 Duration: 30 Minutes
 
 1)Introduce about Yourself.
 

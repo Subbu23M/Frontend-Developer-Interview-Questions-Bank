@@ -106,7 +106,7 @@ const fullDetails = {
 
 ' ---- Round - Two ---- '
 
-Interview Mode :  Google Meet (Video Based) Round-Two
+Interview Mode :  Google Meet (Video Based)
 Company Name : DigiSprint(Hyderabad)
 Date:22/12/2021 Duration: 30 Minutes
 
@@ -158,13 +158,13 @@ Date:22/12/2021 Duration: 30 Minutes
 
 ' ---- Round - Three ---- '
 
-Interview Mode : Microsoft Teams (Video Based) Round-Three
+Interview Mode : Microsoft Teams (Video Based)
 Company Name : DigiSprint(Hyderabad)
 Date:28/12/2021 Duration: 18 Minutes
 
 1)Introduce about yourself.
 
-2)What is your main intention for entering IT Sector.
+2)What is your main intention for entering into IT Sector.
 
 3)Did you completed any real time projects.
 

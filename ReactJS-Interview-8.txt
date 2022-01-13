@@ -1,0 +1,21 @@
+Interview Mode : Panna Platform (AI Tool) (Video Based)
+Company Name : Mroads(Hyderabad)
+Date:13/01/2022 Duration: 20 Minutes
+
+1)Write in two lines about your Tech Stack.
+
+2)In which technology you need to explore.
+
+3)Antonym for the word amicable.
+
+4)There is one scooter It has 2 tyres one stepni.Each tyre can run 5 kms.How long a scooter can run?
+
+5)A frog jumps 3 ft comes back 2ft in a day. In how many days it will come out of 20ft deep well.
+
+6)There are two sand timers which show 4 minutes and 7 minutes respectively. What would be the best approach to get a time of 9 minutes using both the sand timers, at one time or one after another or in any other combination?
+
+7)Write JavaScript program to find duplicate characters in string panna and display its length. a - 2 n - 2
+
+8)Write JavaScript program to find longest and shortest word in string "The quick brown fox jumped over the lazy dog"
+
+9)Where do you see yourself after 3 years.

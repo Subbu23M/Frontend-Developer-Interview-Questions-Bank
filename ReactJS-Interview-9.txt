@@ -42,3 +42,5 @@ And frame the output :[{userId:1,count:4},.....];
 8)Explain about CSS media queries.
 
 9)Any questions if you have,please ask me.
+
+10)How to update state in ReactJS.

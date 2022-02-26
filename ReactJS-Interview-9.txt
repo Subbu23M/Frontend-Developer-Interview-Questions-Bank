@@ -1,0 +1,44 @@
+Interview Mode : Microsoft Teams (Video Based)
+Company Name : ContenTerra Software Private Limited (Hyderabad)
+Date:26/02/2022 Duration: 38 Minutes
+
+1)Tell me about yourself.
+
+2)Which ReactJS version you learned.
+
+3)Explain the difference between class and function based components.
+
+4)Explain ReactJS Life Cycle methods.
+
+5)Write JavaScript program for const arrOne = [{
+    userId: 1
+}, {
+    userId: 1
+}, {
+    userId: 2
+}, {
+    userId: 3
+}, {
+    userId: 1
+}, {
+    userId: 2
+}, {
+    userId: 1
+}, {
+    userId: 2
+}, {
+    userId: 3
+}];
+And frame the output :[{userId:1,count:4},.....];
+
+6)Write JavaScript program to check particular property exists in object or not. for const obj1 = [{
+    student: 'subramanyam'
+}, {
+    student: 'xyz'
+}];
+
+7)How to place two <div></div> in center on X-axis and Y-axis.
+
+8)Explain about CSS media queries.
+
+9)Any questions if you have,please ask me.

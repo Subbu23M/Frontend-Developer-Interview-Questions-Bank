@@ -10,7 +10,9 @@ Date:26/02/2022 Duration: 38 Minutes
 
 4)Explain ReactJS Life Cycle methods.
 
-5)Write JavaScript program for const arrOne = [{
+5)How to update state in ReactJS.
+
+6)Write JavaScript program for const arrOne = [{
     userId: 1
 }, {
     userId: 1
@@ -31,16 +33,14 @@ Date:26/02/2022 Duration: 38 Minutes
 }];
 And frame the output :[{userId:1,count:4},.....];
 
-6)Write JavaScript program to check particular property exists in object or not. for const obj1 = [{
+7)Write JavaScript program to check particular property exists in object or not. for const obj1 = [{
     student: 'subramanyam'
 }, {
     student: 'xyz'
 }];
 
-7)How to place two <div></div> in center on X-axis and Y-axis.
+8)How to place two <div></div> in center on X-axis and Y-axis.
 
-8)Explain about CSS media queries.
+9)Explain about CSS media queries.
 
-9)Any questions if you have,please ask me.
-
-10)How to update state in ReactJS.
+10)Any questions if you have,please ask me.

@@ -1,0 +1,26 @@
+Interview Mode : Telephonic Round (Audio Based)
+Company Name : Silfra Technologies Pvt.Ltd (Bangalore)
+Date:22/03/2022 Duration: 5 Minutes
+
+1)Tell me about yourself.
+2)What are the concepts you learned in ReactJS
+3)Explain about Hooks in React.
+4)Explain about Redux
+5)Explain about HTML5,CSS3 and Bootstrap.
+6)Explain about Node.JS 
+7)Explain about API
+
+
+Interview Mode : Google Meet (Video Based)
+Company Name : Silfra Technologies Pvt.Ltd (Bangalore)
+Date:23/03/2022 Duration: 40 Minutes
+
+1)In which companies you completed your Internships.
+2)Asked me to list data on the screen from JSON Placeholder Posts.
+3)What approach you take on the above assignment.
+4)Explain about useState and useEffect Hooks.
+5)Explain the difference between class based and function components.
+6)Explain about Redux and Context API
+7)What is the issue with passing data through props drilling.
+8)Explain about callback function and Event Handlers.
+9)Any questions if you have please ask me.

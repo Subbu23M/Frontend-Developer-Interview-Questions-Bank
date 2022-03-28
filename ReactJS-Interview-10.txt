@@ -24,3 +24,21 @@ Date:23/03/2022 Duration: 40 Minutes
 7)What is the issue with passing data through props drilling.
 8)Explain about callback function and Event Handlers.
 9)Any questions if you have please ask me.
+
+Interview Mode : Google Meet (Video Based)
+Company Name : Silfra Technologies Pvt.Ltd (Bangalore)
+Date:28/03/2022 Duration: 30 Minutes
+
+1)Introduce yourself.
+2)What you did in your previous company?
+3)What are the new concepts you learned during your previous internship.
+4)Write a program to check particular date value available in array of strings.
+  const dates = ['01-03-2021', '31-03-2022', '14-03-2023', '20-03-2024', '28-02-2022', '01-04-2022'];
+5)Explain about Data Structures, Arrays, Objects, JSON Data, Linked-List,Stack,Queue.
+6)Convert JSON Data employee: { "name": "Ram", "age": "32", "Bank": [{"BankName":"HDFC", "AccountNumber": "12233445"}]
+to JS Object const details = [{
+    "employee_name": "Ram",
+    "employee_age": "32",
+    "employee_Bank_1_BankName": "HDFC",
+    "employee_Bank_1_AccountNumber": "12233445"
+}];

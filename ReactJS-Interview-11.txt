@@ -1,0 +1,26 @@
+Interview Mode : Google Meet (Video Based)
+Company Name : AntStack Technologies (Bangalore)
+Date:06/04/2022 Duration: 30 Minutes
+
+1)Introduce about yourself.
+2)Rate your knowledge in JavaScript,HTML,CSS out of 5.
+3)Explain about On Page SEO.
+4)Explain about HTML,CSS and JavaScript.
+5)Why ReactJS over Vanilla JS.
+6)Explain about inline and block level elements in HTML.
+7)Explain about flex and grid.
+8)Explain about CSS box-model.
+9)Explain the difference between var,let and const.
+10)Explain the difference between forEach() and map().
+11)Explain about callback and higher order functions.
+12)Explain about pass by value and pass by reference.
+13)Explain about DOM and Virtual DOM.
+14)Explain about ReactJS,JSX and BabelJS.
+15)List out some HTML tags.
+16)Explain the difference between null and undefined.
+17)Why we use let keyword for primitive data types and const for non-primitive data types.
+18)Explain about Asynchronous concept.
+19)Explain about async() await()
+20)const is fixed then how you are updating values in array or objects.
+21)What are the concepts you learned from JavaScript and ReactJS in DCT Academy.
+22)Any questions if you have, please ask me.

@@ -23,4 +23,5 @@ Date:06/04/2022 Duration: 30 Minutes
 19)Explain about async() await()
 20)const is fixed then how you are updating values in array or objects.
 21)What are the concepts you learned from JavaScript and ReactJS in DCT Academy.
-22)Any questions if you have, please ask me.
+22)Explain the features of ReactJS.
+23)Any questions if you have, please ask me.

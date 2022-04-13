@@ -1,0 +1,25 @@
+Interview Mode :  Google Meet (Video Based)
+Company Name : Design String(Bangalore)
+Date:12/04/2022 Duration: 45 Minutes
+
+-------------Round-One--------------------
+1)Introduce about yourself.
+2)Questions mainly based on Take Home Assignment and Resume.
+3)Explain about useState() hook.
+4)Why Redux over useState() hook.
+5)What are the hooks you are familiar in ReactJS.
+6)Explain about meta tags.
+7)What are the works we can do with useEffect() hook.
+8)Why ReactJS over JavaScript.
+9)Explain about react-router-dom 
+10)Explain about Sass in CSS.
+11)Explain about lifting the state up concept in ReactJS.
+12)In which Life Cycle method you will make API calls in ReactJS.
+13)Any questions if you have,you can ask me.
+
+Interview Mode :  Google Meet (Video Based)
+Company Name : Design String(Bangalore)
+Date:13/04/2022 Duration: 53 Minutes
+
+-------------Round-Two--------------------
+1)Questions mainly based on student challanges before getting job.

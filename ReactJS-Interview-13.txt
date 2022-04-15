@@ -23,3 +23,5 @@ Date:13/04/2022 Duration: 53 Minutes
 
 -------------Round-Two--------------------
 1)Questions mainly based on student challanges before getting job.
+Vitejs.dev
+Amby.co

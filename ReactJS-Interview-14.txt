@@ -1,0 +1,62 @@
+------------ Round - One ------------
+Interview Mode : Telephonic Round (Audio Based)
+Company Name : Techtez LLP(Bangalore)
+Date:22/05/2022 Duration: 4 Minutes
+
+1)Explain about <meta> tags in HTML.
+2)What are the technologies you are aware of.
+3)Explain about HTML.
+4)What do you mean by attributes in HTML.
+5)Explain about ReactJS.
+6)Explain about ReactJS Web Servers.
+
+------------ Round - One ------------
+Interview Mode : Telephonic Round (Audio Based)
+Company Name : IQVIA(Bangalore)
+Date:23/05/2022 Duration: 15 Minutes
+
+1)What are the features of ReactJS.
+2)Explain about Virtual DOM.
+3)What do you mean by term render in ReactJS.
+4)Explain about closures and reducer.
+5)Explain about useReducer hook.
+6)What do you mean by JSX.
+7)Browser understands JSX directly.
+8)What are the difference between ES5 and ES6 versions in JavaScript.
+9)Explain the difference between function and class based components.
+10)Explain the process of reconsiliation.
+11)Explain the difference between forEach() and map()
+12)Explain the difference between map() and filter()
+13)Explain about JWT.
+14)In which stage you make API calls in Redux.
+15)Explain about useMemo() hook.
+
+------------ Round - One ------------
+Interview Mode : Video Based Round (Skype)
+Company Name : Cashapona(Hyderabad)
+Date:25/05/2022 Duration: 61 Minutes
+
+1)Introduce about yourself.
+2)Explain the features of ReactJS.
+3)Explain the difference between CSS and Bootstrap
+4)Advantages with Scss(Sass)
+5)Can you manipulate Bootstrap styles.
+6)Explain the difference between local storage and session storage.
+7)Explain the redux data flow.
+8)Explain about redux-thunk middleware.
+9)Explain the difference between block level elements and inline level elements.
+10)Explain about CSS box-model
+11)Explain the difference between display:none and visibility:hidden 
+12)Explain about Z-Index 
+13)Explain about your resume projects
+14)Explain about JSON,Object and JavaScript.
+15)Explain the difference between var, let and const.
+16)Explain about scope in JavaScript.
+17)Explain about JWT.
+18)Explain the difference between authentication and authorization.
+19)Write a simple function component in Notepad.
+20)https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/diff-two-arrays
+21)Rate yourself out of 5 in JavaScript
+22)Do you know any Testing Tools.
+23)What is the advantage of Redux over useState() hook.
+24)If you have any questions you can ask me freely.

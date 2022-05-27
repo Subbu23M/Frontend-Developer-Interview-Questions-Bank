@@ -32,6 +32,7 @@ Date:23/05/2022 Duration: 15 Minutes
 13)Explain about JWT.
 14)In which stage you make API calls in Redux.
 15)Explain about useMemo() hook.
+16)Explain the limitation of hooks in ReactJS.
 
 Interview-16
 ------------ Round - One ------------
@@ -62,4 +63,5 @@ Date:25/05/2022 Duration: 61 Minutes
 21)Rate yourself out of 5 in JavaScript
 22)Do you know any Testing Tools.
 23)What is the advantage of Redux over useState() hook.
-24)If you have any questions you can ask me freely.
+24)Did you use re-usable components in your reactjs projects.
+25)If you have any questions you can ask me freely.

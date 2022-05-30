@@ -33,6 +33,13 @@ Date:23/05/2022 Duration: 15 Minutes
 14)In which stage you make API calls in Redux.
 15)Explain about useMemo() hook.
 16)Explain the limitation of hooks in ReactJS.
+17)Explain the difference between var,let and const.
+18)Explain about Hoisting.
+19)Explain the difference between primitive and non-primitive data types.
+20)Explain about map()
+21)Explain the difference between forEach() and map()
+22)Explain about useEffect() hook.
+23)Explain the process involved in AJAX Life Cycle.
 
 Interview-16
 ------------ Round - One ------------

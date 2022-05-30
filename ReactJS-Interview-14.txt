@@ -40,6 +40,8 @@ Date:23/05/2022 Duration: 15 Minutes
 21)Explain the difference between forEach() and map()
 22)Explain about useEffect() hook.
 23)Explain the process involved in AJAX Life Cycle.
+24)Introduce about yourself.
+25)What are the projects you did in your old company.
 
 Interview-16
 ------------ Round - One ------------
@@ -72,3 +74,24 @@ Date:25/05/2022 Duration: 61 Minutes
 23)What is the advantage of Redux over useState() hook.
 24)Did you use re-usable components in your reactjs projects.
 25)If you have any questions you can ask me freely.
+
+------------ Round - Two ------------
+Interview Mode : Video Based Round (Skype)
+Company Name : Cashapona(Hyderabad)
+Date:30/05/2022 Duration: 48 Minutes
+1)Introduce about yourself.
+2)https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/sum-all-numbers-in-a-range
+3)Explain the difference between HTML5 and HTML4
+4)Explain the difference between inline and block level elements.
+5)What do you mean by Virtual DOM.
+6)What are the new features introduced in ReactJS V18.
+7)What do you mean by Higher Order function.
+8)Explain the difference between ES5 and ES6 versions.
+9)What do you mean by this keyword.
+10)What are the ReactJS Life Cycle Methods.
+11)What do you mean by mounting,unmounting,updating methods.
+12)Rate yourself in HTML,CSS and JavaScript outof 10.
+13)Explain about Event loop and callstack in JavaScript.
+14)Which versions you started learning in HTML and CSS.
+15)Why Vanilla JS over ReactJS.
+16)Any questions if you have you can ask me freely.

@@ -94,4 +94,34 @@ Date:30/05/2022 Duration: 48 Minutes
 13)Explain about Event loop and callstack in JavaScript.
 14)Which versions you started learning in HTML and CSS.
 15)Why Vanilla JS over ReactJS.
-16)Any questions if you have you can ask me freely.
+16)What are the challanges you faced while working with ReactJS projects.
+17)What is the difference between window and document in DOM.
+18)What do you mean by semantic elements and what is the use with it.
+19)Any questions if you have you can ask me freely.
+
+------------ Round - Three ------------
+Interview Mode : Video Based Round (Google Meets)
+Company Name : Cashapona(Hyderabad)
+Date:31/05/2022 Duration: 15 Minutes
+1)Let me brief your peronal details.
+2)What you did after 2018.
+3)What is your passion to work.
+
+------------ Round - One ------------
+Interview Mode : Audio Based Round (Telephonic)
+Company Name : Quantum Dynamics
+Date:31/05/2022 Duration: 5 Minutes
+1)Introduce about yourself.
+2)Explain the difference between class based and function components.
+3)What do you mean by stateless in ReactJS.
+4)How do you initiate state in ReactJS.
+5)Explain about componentUnMounting().
+
+List of companies for placements provided by DCT Academy.
+1)NetServ (Selected)
+2)InfoVision (Rejected)
+3)Digi Sprint Solutions (Selected)
+4)Silfra Technologies (Rejected)
+5)IQ Gateway (Rejected)
+6)Ant Stack (Rejected)
+7)Costrategix Technologies (Rejected)

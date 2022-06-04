@@ -1,0 +1,24 @@
+------------ Round - One ------------
+
+Interview Mode : Video Based Round (Google Meets)
+Company Name : Costrategix Technologies Private Limited(Bangalore)
+Date:01/06/2022 Duration: 30 Minutes
+
+1)Tell me about yourself.
+2)What are the data types in JavaScript.
+3)Explain about object.
+4)List out some of the ES5 and ES6 features.
+5)Explain about Arrow function, Spread Operator.
+6)List out some of the Array methods.
+7)Explain about Event loop.
+8)JavaScript is synchronous or asynchronous in nature.
+9)Explain about multi-threaded concept in JavaScript.
+10)Explain about this keyword.
+11)How you pass data from child to parent.
+12)Explain about middleware in redux.
+13)What do you mean by redux and how you read state within the component.
+14)Which middleware you used.
+15)Explain about the term dispatch.
+16)Which ReactJS version you used.
+17)Ask me to build Todo-App project.
+18)How to check whether a particular property exists in a object or not.

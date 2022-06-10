@@ -11,10 +11,11 @@ Date:09/06/2022 Duration: 20 Minutes
 5)Is their any condition to pass particular data type to child components from parent component.
 6)How you update state from child to parent.
 7)Explain about useState() hook and useEffect().
-8)Explain about Promises.
-9)Explain about async() and await()
-10)Write a program to remove duplicates from the given array.
-11)Advantage of ReactJS over Vanilla JS.
-12)Why we use .then() and .catch() in AJAX calls.
-13)Explain about CSR and SSR.
-14)Are you familiar with Redux.
+8)What will happen if you miss second argument in useEffect() hook.
+9)Explain about Promises.
+10)Explain about async() and await()
+11)Write a program to remove duplicates from the given array.
+12)Advantage of ReactJS over Vanilla JS.
+13)Why we use .then() and .catch() in AJAX calls.
+14)Explain about CSR and SSR.
+15)Are you familiar with Redux.

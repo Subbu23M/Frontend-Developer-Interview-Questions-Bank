@@ -1,0 +1,14 @@
+Interview Mode : Google Meet (Video Based)
+Company Name : NeftX(Hyderabad)
+Date:09/11/2022 Duration :22 Minutes
+
+1)Tell me about yourself.
+2)What do you mean by term responsiveness.
+3)Why you are planning to change organisation.
+4)What are the challanges you faced while working on projects.
+5)Your expected CTC.
+6)Did you visited our company web page,what suggestions you can give for better view.
+7)Any questions you have,can ask me freely.
+8)What kind of projects you worked so far.
+9)What do you mean by the term re-usability in reactjs components.
+10)If client is not satisfied with your project progress,how you will face that situation.

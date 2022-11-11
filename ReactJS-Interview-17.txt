@@ -12,3 +12,4 @@ Date:09/11/2022 Duration :22 Minutes
 8)What kind of projects you worked so far.
 9)What do you mean by the term re-usability in reactjs components.
 10)If client is not satisfied with your project progress,how you will face that situation.
+11)Explain about On Page SEO and Digital Marketing.

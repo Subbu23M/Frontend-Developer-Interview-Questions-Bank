@@ -1,0 +1,26 @@
+Interview Mode : Google Meet (Video Based)
+Company Name : BookySure(Gurugram)
+Date:11/11/2022 Duration :20 Minutes
+
+1)Tell me about yourself.
+2)What is the difference between state and props.
+3)What is the difference between state and variable.
+4)What is the difference between function and class based components.
+5)What you do in your free time.
+6)How did you motivate on your own.
+7)Are you interested to work on weekends.
+8)Write a JS program for the following array.
+const values = [null, 1, undefined, 3, 'a', true, 435, 'false'];
+Condition : return array of same data type,based on 2nd argument.
+
+function myFunc(arr, dataType) {
+    const emptyArray = [];
+    for (let i = 0; i < arr.length; i++) {
+        if (typeof arr[i] === dataType) {
+            emptyArray.push(arr[i])
+        }
+    }
+    return emptyArray;
+}
+console.log(myFunc(values, 'number'));
+console.log(myFunc(values, 'string'));

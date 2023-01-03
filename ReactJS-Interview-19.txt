@@ -1,0 +1,36 @@
+Interview Mode : Google Meet (Video Based)
+Company Name : Chat360(Pune)
+Date:03/01/2023 Duration :15 Minutes
+
+1)Tell me about yourself.
+2)How much you rate out of 10 in JS and ReactJS.
+3)Explain the difference between == and ===
+4)Explain about operators in JS.
+5)Explain the difference between forEach and map methods in JS.
+6)Explain about arrays and how you define arrays in JS.
+For example, const fruitNames = ['apple','mango'];
+7)Explain about JSX and write one function component.
+8)Explain about state and props in ReactJS.
+
+import {useState} from 'react';
+
+function App () {
+    const[names,setNames] = useState(['apple','mango']);
+    return (
+        <>
+            <h1> Hello</h1>
+            <Display data = {names}/>
+        </>
+    )
+}
+
+function Display ({data}) {
+    const{data} = props;
+    return (
+        {data}
+    )
+}
+
+9)How many ways we can create functions in JS.
+10)Explain about Redux and its flow.
+11)Explain about Promises in JS.

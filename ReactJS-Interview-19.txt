@@ -33,6 +33,6 @@ function Display ({data}) {
 
 9)How many ways we can create functions in JS.
 10)Explain about Redux and its flow.
+11)Explain about Promises in JS.
 12)Explain about VanillaJS
 Rudra Deshpande HR Contact Number - 9370552536.
-11)Explain about Promises in JS.

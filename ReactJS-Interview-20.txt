@@ -1,0 +1,22 @@
+Interview Mode : Zoom (Video Based)
+Company Name : Fineant Consulting Solutions(Hyderabad)
+Date:15/03/2023 Duration : 23 Minutes
+
+1)Tell me about yourself.
+2)How much you rate in ReactJS out of 5.
+3)Explain about routing in ReactJS and write the syntax.
+4)Explain about Context API.
+5)Explain about binding.
+6)Explain about useRef hook.
+7)List out the hooks you are aware of.
+8)How we create ReactJS projects.
+9)Explain about key attribute in ReactJS.
+10)Explain about Virtual DOM.
+11)Are you aware of AngularJS and PHP.
+12)Explain about JSX in ReactJS.
+13)Why we are required to work with Redux or RTK or Context API.
+14)What is the simple command in ReactJS.
+15)Explain about React Fibre.
+16)What are the main features of ReactJS.
+17)Do you have any questions you can ask me freely.
+18)What is the Tech Stack and projects your company is working.

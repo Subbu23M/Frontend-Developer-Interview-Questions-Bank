@@ -6,7 +6,7 @@ Date:15/03/2023 Duration : 23 Minutes
 2)How much you rate in ReactJS out of 5.
 3)Explain about routing in ReactJS and write the syntax.
 4)Explain about Context API.
-5)Explain about binding.
+5)Explain about data binding in ReactJS.
 6)Explain about useRef hook.
 7)List out the hooks you are aware of.
 8)How we create ReactJS projects.

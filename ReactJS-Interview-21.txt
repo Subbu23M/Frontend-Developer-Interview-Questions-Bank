@@ -1,0 +1,11 @@
+Interview Mode : Google Meet (Video Based)
+Company Name : Nexxio Technologies(Bangalore)
+Date:24/03/2023 Duration : 60Minutes
+
+1)What is your current CTC?
+2)Do the following task 
+  Create a small application in react JS which takes Name, Email,password and take the user to welcome screen on click of submit , which displays Welcome {user} , your account has been created with email id {email}.
+
+- Validation on fields
+- Password should be greater than 8 chars and must contain symbol, numbers etc
+- Feel free to use any styling if time permits

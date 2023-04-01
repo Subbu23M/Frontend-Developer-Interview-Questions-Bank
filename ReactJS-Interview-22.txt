@@ -1,0 +1,17 @@
+Interview Mode : Zoom Meeting (Video Based)
+Company Name : Simtrak Solutions(Kolkata)
+Date:31/03/2023 Duration : 60 Minutes
+
+-----Round - One ----
+
+1)Print 'hello, world'
+2)Find output for the following LOC and explain it.
+  let filteredItems = items.filter(item => item.includes('play'));
+  const items = ['apple', 'play']
+  const items2 = ["plays", "playing", "played"]
+  const items3 = [
+      ["plays", "playing", "played"]
+  ]
+  const items4 = [
+      ["play", "horse", "owl"]
+  ]

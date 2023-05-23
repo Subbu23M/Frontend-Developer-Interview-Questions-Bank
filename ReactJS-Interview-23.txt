@@ -1,0 +1,20 @@
+Interview Mode : Google Meet (Video Based)
+Company Name : WebDew(Mohali)
+Date:23/05/2023 Duration : 10 Minutes
+
+--------------- Round - One -----------------
+1)Tell me about yourself.
+2)Explain your tech stack and major projects you worked so far.
+3)Where are you from and your current location.
+4)Why you are changing company?
+5)Explain about your family?
+6)Do you have power backup and wifi facility?
+7)What is your current CTC and Expected CTC?
+8)How is your health and do you have plans to take leave for 15 days.
+9)Are you aware of Wordpress,Shopify,Woo Commerce CMS tools.
+10)What you know about Web Dew Company?
+11)Why you are interested to join our organisation and what plans do you have to explore in Tech Stack?
+12)Are you comfortable with 12Months service aggrement.
+13)Are you maintaining Provident Fund?
+14)What is your total work experience.
+15)Do you have any questions?

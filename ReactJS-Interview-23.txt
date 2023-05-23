@@ -17,4 +17,6 @@ Date:23/05/2023 Duration : 10 Minutes
 12)Are you comfortable with 12Months service aggrement.
 13)Are you maintaining Provident Fund?
 14)What is your total work experience.
-15)Do you have any questions?
+15)What kind of projects your current company is working currently?
+16)Are you working in remote or hybrid work model?
+17)Do you have any questions?

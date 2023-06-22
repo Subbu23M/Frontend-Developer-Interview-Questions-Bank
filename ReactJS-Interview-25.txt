@@ -1,11 +1,11 @@
-Interview Mode : Google Meet (Video Based)
+Interview Mode: Google Meet (Video Based)
 Company Name : Solvative(Ahmedabad)
-Date:22/06/2023 Duration : 5 Minutes
+Date:22/06/2023 Duration: 5 Minutes
 
 ---------- Round - One ---------
 1)Tell me about yourself.
-2)Can i know your tech stack.
-3)Can you explain what is your role in past company and explain your work in the project.
-4)What is your current CTC and Expected CTC and it is negoitable?
-5)What is your notice period days?
+2)Can I know your tech stack?
+3)Can you explain what is your role in a past company and explain your work in the project?
+4)What is your current CTC and Expected CTC and it is negotiable?
+5)What are your notice period days?
 6)Are you comfortable with Remote working?

@@ -1,0 +1,11 @@
+Interview Mode : MS-Teams(Video Based)
+Company Name : DAZN(Hyderabad)
+Date:09/08/2023 Duration: 25 Minutes
+
+1)Introduce about yourself.
+2)Can you explain about ES5 and ES6 features.
+3)Explain about currying in JavaScript.
+4)Please setup redux along with reactjs.
+5)Can you create Higher Order function.
+6)Use this https://datausa.io/api/data?drilldowns=State&measures=Population and extract data using Browser fetch API and display data in table format.
+7)If you have any questions please ask me.

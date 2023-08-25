@@ -1,0 +1,13 @@
+Interview Mode : Google Meets(Video Based)
+Company Name : SkillAI(Bangalore)
+Date:25/08/2023 Duration: 25 Minutes
+
+--------- Round - One -----------------------
+1)Can you please introduce about yourself.
+2)Can you explain the difference between var,let and const
+3)Can you show your past projects.
+4)Are you familiar with other programming languages apart of JavaScript.
+5)Can you explain the term Recursion
+6)Please write JavaScript program to,
+  a)Fibonacci Series Up to n Terms
+  b)Fibonacci Sequence Up to a Certain Number

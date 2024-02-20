@@ -1,0 +1,14 @@
+Company Name : Sketch Brahma Technologies Pvt. Ltd (Bangalore)
+
+Date:20/02/2024 Duration: 14 Minutes
+--------- Round - One(Telephonic Round) -----------------------
+1)Can you please introduce about yourself?
+2)Explain the difference between var and let?
+3)Explain the difference between forEach() & map()?
+4)Explain the difference between controlled & uncontrolled components?
+5)Explain the difference between function and method?
+6)Explain the pseudo code how to determine a number is even or odd?
+7)Explain the ways how to setup ReactJS Environment to build web apps?
+8)How you will navigate from one page to another page?
+9)Explain the difference between setInterval() & setTimeOut()?
+10)Explain your past company tech stack and project details?

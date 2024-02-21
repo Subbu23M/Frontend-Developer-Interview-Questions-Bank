@@ -13,3 +13,4 @@ Date:20/02/2024 Duration: 14 Minutes
 8)How you will navigate from one page to another page?
 9)Explain the difference between setInterval() & setTimeOut()?
 10)Explain your past company tech stack and project details.
+11)How did you pass data from one component to another component in ReactJS?

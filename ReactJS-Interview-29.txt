@@ -1,0 +1,60 @@
+Company Name: NativeByte(Pune)
+
+--------- Round - One(Video based Round-MS.Teams) -----------
+Date:07/01/2025 Duration: 82 Minutes
+
+1)Tell me about yourself?
+2)What is the output for the following JavaScript Questions?
+let x = {
+    b: 1,
+    c: 2
+};
+let y = Object.keys(x);
+console.log(y.length);
+
+let a = '{ "b": 1, "c": 2 }';
+let b = JSON.parse(a);
+console.log(typeof b);
+
+console.log([] === "")
+
+console.log([] == "")
+
+let p = true;
+let q = false;
+let r = p + q && p * q;
+console.log(r);
+
+let x = [1, 2, 3];
+console.log(typeof x);
+
+3)Write a JavaScript program to remove duplicates from the following array.
+let arr = ["A", "A", "B", "E",  "C", "D", "D"];
+
+4)Write a JavaScript program for the following question?
+https://leetcode.com/problems/two-sum/description/
+
+5) What is axios and how to use it in React? 
+6) How to update the state of React components using a callback? 
+7) Explain useState() & useEffect() and write with an example. Why do we pass [] in the useEffect() hook? 
+8) Explain the difference between state and props. 
+9) What do you mean by state management in ReactJS? 
+10) Explain props drilling in ReactJS. 
+11) List the hooks you are familiar with in ReactJS. 
+12) How did you combine multiple reducers into one in React-Redux? 
+13) Explain useRef() and useCallback() hooks. 
+14) Explain the await and async keywords. 
+15) Write a syntax for making an API call using axios. 
+16) Explain stateful and stateless components. 
+17) Explain the flow of Redux. 
+18) Which method did you use to update a record in APIs? 
+19) Explain the Virtual DOM in ReactJS. 
+20) Does data persist in state management? Does the data still persist when you continue the same operations on different browsers? 
+21) What are the advantages of fetch() and axios in making API calls? 
+22) Explain Firebase. 
+23) What are the projects you worked on in your previous companies? 
+24) Are you familiar with any latest ReactJS features? Can you please list them? 
+25) Do you have any questions you would like to ask me?
+
+--------- Round - Two(Video based Round-MS.Teams) -----------
+Date:08/01/2025 Duration:  Minutes

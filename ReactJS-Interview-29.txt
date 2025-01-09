@@ -58,4 +58,8 @@ https://leetcode.com/problems/two-sum/description/
 26) Do you have any questions you would like to ask me?
 
 --------- Round - Two(Video based Round-MS.Teams) -----------
-Date:09/01/2025 Duration:  Minutes
+Date:09/01/2025 Duration:15 Minutes
+1)Could you please introduce yourself?
+2)What projects have you worked on?
+3)What roles have you held in your previous companies?
+4)Could you showcase the outcomes of your projects?

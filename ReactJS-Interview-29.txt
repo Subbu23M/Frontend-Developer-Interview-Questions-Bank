@@ -53,8 +53,9 @@ https://leetcode.com/problems/two-sum/description/
 21) What are the advantages of fetch() and axios in making API calls? 
 22) Explain Firebase. 
 23) What are the projects you worked on in your previous companies? 
-24) Are you familiar with any latest ReactJS features? Can you please list them? 
-25) Do you have any questions you would like to ask me?
+24)Explain the main difference between == and === in JavaScript.
+25) Are you familiar with any latest ReactJS features? Can you please list them? 
+26) Do you have any questions you would like to ask me?
 
 --------- Round - Two(Video based Round-MS.Teams) -----------
-Date:08/01/2025 Duration:  Minutes
+Date:09/01/2025 Duration:  Minutes

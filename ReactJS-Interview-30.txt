@@ -1,0 +1,9 @@
+Company Name: Big Oh Notation Pvt.Ltd(Noida)
+
+--------- Round - One(Telephonic Round) -----------
+Date:28/01/2025 Duration:04 Minutes
+1)Could you brief me about your tech stack?
+2)Could you explain how you fetch data using Redux Toolkit?
+3)Could you explain middleware in Redux?
+4)Could you explain the lifecycle in React?
+5)How does data fetching work in the useEffect() hook when a component is in the unmounting stage?

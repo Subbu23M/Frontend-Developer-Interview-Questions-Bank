@@ -1,0 +1,14 @@
+Company Name: Infinite Computer Solutions (Bangalore, KA)
+
+Round One (Video-based round on MS Teams)
+    Date: 31/01/2025
+    Duration: 52 minutes
+
+Questions:
+1)Can you tell me about your tech stack and work experience?
+2)Can you explain pixels, rem, and em units in CSS?
+3)What is d-flex in CSS?
+4)Can you explain the CSS grid?
+5)What are the selectors in CSS?
+6)What are the ways to include CSS in an HTML file?
+7)Could you write the code for the given UI design?

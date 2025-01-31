@@ -12,3 +12,4 @@ Questions:
 5)What are the selectors in CSS?
 6)What are the ways to include CSS in an HTML file?
 7)Could you write the code for the given UI design?
+8)Do you have experience with CMS tools like WordPress?

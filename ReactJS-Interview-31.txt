@@ -13,3 +13,13 @@ Questions:
 6)What are the ways to include CSS in an HTML file?
 7)Could you write the code for the given UI design?
 8)Do you have experience with CMS tools like WordPress?
+
+**Company Name:** Infinite Computer Solutions (Bangalore, KA)
+
+**Round One:** Video-based round on MS Teams
+    **Date:** 04/02/2025
+    **Duration:** 15 minutes
+
+**Questions:**
+1. Explain your overall project experience.
+2. Write a JavaScript program to remove duplicates from an array.

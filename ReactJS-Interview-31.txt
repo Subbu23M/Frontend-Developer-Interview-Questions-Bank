@@ -36,3 +36,4 @@ Questions:
 3. Elaborate on lazy loading.
 4. Discuss custom hooks and built-in hooks.
 5. How do we use lifecycle methods in function components?
+6. Explain the different types of loading in ReactJS.

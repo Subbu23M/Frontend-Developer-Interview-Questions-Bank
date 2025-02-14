@@ -23,3 +23,16 @@ Questions:
 **Questions:**
 1. Explain your overall project experience.
 2. Write a JavaScript program to remove duplicates from an array.
+
+**Company Name:** Eterna light Infotech (Bangalore, KA)
+
+**Round One:** Telephonic round
+    **Date:** 14/02/2025
+    **Duration:** 5 minutes
+
+**Questions:**
+1. Explain the lifecycle methods in ReactJS.
+2. Describe the `useCallback` and `useMemo` hooks.
+3. Elaborate on lazy loading.
+4. Discuss custom hooks and built-in hooks.
+5. How do we use lifecycle methods in function components?

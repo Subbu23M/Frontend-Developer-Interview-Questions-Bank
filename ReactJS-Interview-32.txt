@@ -1,0 +1,15 @@
+Company Name: Anhad Technocrafts(Kolkata, WB)
+
+Round One (Video-based round on Google Meet)
+    Date: 24/02/2025
+    Duration: 30 minutes
+
+Questions:
+1. Could you provide a brief introduction to your tech stack?
+2. What are the differences between class-based and function-based components in ReactJS?
+3. Could you explain what hooks are in ReactJS?
+4. How do you manage complex state in ReactJS applications?
+5. Can you create a component that fetches data and displays it in the browser?
+6. Could you explain the concept of the Virtual DOM?
+7. What are the differences between the `fetch()` API and Axios?
+8. Do you have any questions for me?

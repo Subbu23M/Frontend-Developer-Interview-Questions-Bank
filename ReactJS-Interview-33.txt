@@ -17,3 +17,4 @@
 8. Explain Bootstrap and its grid system.  
 9. Differentiate between Local Storage and Session Storage.  
 10. Explain custom hooks.
+11. Explain Event Bubbling and Event Capturing.  

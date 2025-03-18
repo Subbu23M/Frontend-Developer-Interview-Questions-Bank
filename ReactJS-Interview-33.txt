@@ -1,0 +1,19 @@
+**Company Name:** Deloitte  
+
+**Round One** *(Video-based round on Zoom)*  
+- **Date:** 18/03/2025  
+- **Duration:** 20 minutes  
+
+**Questions:**  
+1. Introduce yourself.  
+2. Explain semantic tags in HTML.  
+3. Discuss your tech stack.  
+4. What is the output for the following code:  
+   - `console.log('5' + 2)`  
+   - `console.log(5 - 2)`  
+5. Explain hoisting.  
+6. Describe closures.  
+7. List five hooks in ReactJS.  
+8. Explain Bootstrap and its grid system.  
+9. Differentiate between Local Storage and Session Storage.  
+10. Explain custom hooks.

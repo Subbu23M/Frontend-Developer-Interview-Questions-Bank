@@ -77,4 +77,5 @@ export const DisplayList = () => {
 }
 
 6. Provide an explanation of generator functions and their use cases.
-7. Conclude by asking if you have any questions.
+7.What distinguishes ReactJS from NextJS?
+8. Conclude by asking if you have any questions.

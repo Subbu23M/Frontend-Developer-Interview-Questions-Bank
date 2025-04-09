@@ -18,3 +18,63 @@
 9. Differentiate between Local Storage and Session Storage.  
 10. Explain custom hooks.
 11. Explain Event Bubbling and Event Capturing.  
+
+** Round Two (Video-based interview on Zoom) **
+Date: April 8th, 2025  
+Duration: 25 minutes  
+
+Topics/Questions:
+1. Begin by introducing yourself.
+2. Evaluate and rate your understanding of CSS and JavaScript concepts.
+3. Use a relatable real-world example to explain closures to someone without technical knowledge.
+4. Analyze the output of the following ReactJS, HTML, CSS, and JavaScript code snippets:
+
+<form>
+        <label for="name">Name:</label>
+        <input type="text" name="firstName" id="name" onclick="handleName()"> <br> <br>
+
+        <label for="age">Age:</label>
+        <input type="text" name="ageNumber" id="age" onclick="handleAge()"> <br>
+</form>
+
+<script>
+        function handleName(){
+        }
+
+        function handleAge(){
+        }
+</script>
+
+export const DisplayList = () => {
+    const handleEffect = () => {
+        console.log('first mounted');
+        return () => {
+            console.log('unmounted');
+        }
+    }
+    useEffect(handleEffect(),[])
+    return (
+        <>
+            <h2> Hell, Welcome to ReactJS environment</h2>
+        </>
+    )
+}
+
+5. Describe the methods to center text within a box element. Example:
+
+.box {
+    width: 200px;
+    height: 150px;
+    background-color: rebeccapurple;
+    border: 2px solid gainsboro;
+
+    .text {
+        color: darkblue;
+        text-align: center;
+        vertical-align: middle;
+        font-size: 1rem;
+    }
+}
+
+6. Provide an explanation of generator functions and their use cases.
+7. Conclude by asking if you have any questions.

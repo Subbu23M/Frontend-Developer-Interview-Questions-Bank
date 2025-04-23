@@ -46,4 +46,5 @@ useEffect(() => {
 9.What is ReactJS, and why is it popular?
 10.Explain the Virtual DOM and its role in ReactJS.
 11.What is props drilling, and how can it be avoided?
-12.Describe Redux and its architecture.
+12.Can you explain state management?
+13.Describe Redux and its architecture.

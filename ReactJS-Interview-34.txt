@@ -1,0 +1,49 @@
+**Company Name:** Ratnam Software Solutions(Hyderabad) 
+
+**Round One** *(Video-based round on Google Meet)*  
+- **Date:** 23/04/2025  
+- **Duration:** 30 minutes  
+
+**Questions:**  
+1.Tell me about yourself.
+2.Can you briefly describe your projects?
+3.What is the difference between var, let, and const?
+4.Explain the concept of hoisting.
+5.Predict the output of the following code snippets:
+var a = 10;
+var a = 11;
+console.log(a);  // ?
+
+let b = 10;
+let b = 11;
+console.log(b);  // ?
+
+const c = 10;
+const c = 11;
+console.log(c);  // ?
+
+console.log(myName);
+var myName = 'subbu';
+
+console.log(myName);
+let myName = 'subbu';
+
+6.Explain different cases of the useEffect() hook:
+useEffect(() => {
+    // Without dependencies
+});
+
+useEffect(() => {
+    // With an empty dependency array
+}, []);
+
+useEffect(() => {
+    // With a state dependency
+}, [state]);
+
+7.What is the difference between Flexbox and Grid in CSS?
+8.Explain the key features of MUI (Material-UI).
+9.What is ReactJS, and why is it popular?
+10.Explain the Virtual DOM and its role in ReactJS.
+11.What is props drilling, and how can it be avoided?
+12.Describe Redux and its architecture.

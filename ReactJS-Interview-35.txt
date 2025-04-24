@@ -1,0 +1,16 @@
+**Company Name:** Code Vyasa(Bangalore)  
+
+**Round One** *(Video-based round on Google Meet)*  
+- **Date:** 23/04/2025  
+- **Duration:** 30 minutes  
+
+**Questions:**  
+1. Introduce yourself.
+
+2. Write a source code for the following assignment:
+
+   - Create a search field.
+   - Fetch results from an API based on the input field text.
+   - Display the results below the input field.
+   - Use the API: https://dummyjson.com/users/search?q=John
+   - Implement debounce logic to limit the number of API calls instead of triggering a request on each keystroke.

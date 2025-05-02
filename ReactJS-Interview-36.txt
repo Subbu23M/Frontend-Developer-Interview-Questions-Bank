@@ -1,0 +1,51 @@
+### **Company Name:** Publicis Sapient (Bangalore, KA)  
+
+### **Round One: Video-Based Interview (MS Teams)**  
+- **Date:** 02/05/2025  
+- **Duration:** 90 minutes  
+
+### **Interview Questions:**  
+1. Introduce yourself.  
+2. Develop a Vanilla JavaScript application that consumes `https://fakestoreapi.com/carts/2` and displays a list of products in the cart.  
+   - Fetch product details via `https://fakestoreapi.com/products/:id` API and display the **title, price, and image**.  
+3. Difference between `fetch()` and `axios()`.  
+4. Explain the **key** prop and issues with using **index** as a key.  
+5. Describe **object destructuring** (`const { prop1, prop2 } = ele`).  
+6. Compare `map()`, `filter()`, and `reduce()` methods.  
+7. Overview of **Webpack, Babel, `dist` folder, and Tree Shaking**.  
+8. Difference between `package.json` and `package-lock.json`.  
+9. Explain **Lazy Loading** and its implementation.  
+10. Difference between **Actual DOM** and **Virtual DOM**.  
+11. Overview of **semantic elements** in HTML.  
+12. Difference between `display: none;` and `visibility: hidden;`.  
+13. Analyze the output of the given JavaScript function:  
+
+```javascript
+function buildFunctions() {
+    let arr = [];
+    for (var i = 0; i < 3; i++) {
+        arr.push(function () {
+            console.log(i);
+        });
+    }
+    return arr;
+}
+const funcs = buildFunctions();
+funcs[0]();
+funcs[1]();
+funcs[2]();
+```  
+
+14. Explain **Debouncing and Throttling** with code implementation.  
+15. Explain the **CSS Box Model**.  
+16. Discuss **CSS Positioning**.  
+17. Describe **Pseudo-selectors** with an example.  
+18. Explain the **useEffect()** hook and its second parameter.  
+19. Difference between **HTTP** and **HTTPS**.  
+20. What is a **Mobile-First Web App**?  
+21. Can `const [data, setData] = useState([]);` be wrapped inside an `if` condition?  
+22. Explain **Routing**, `<Link></Link>` vs. `<a></a>`.  
+23. Explain **Component Classification** in React.  
+24. Are you familiar with **Jest** testing tool?  
+25. Discuss **Babel**.  
+26. Any questions for me?  

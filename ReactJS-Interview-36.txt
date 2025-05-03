@@ -48,4 +48,5 @@ funcs[2]();
 23. Explain **Component Classification** in React.  
 24. Are you familiar with **Jest** testing tool?  
 25. Discuss **Babel**.  
-26. Any questions for me?  
+26.Explain Promises in JavaScript, along with `Promise.all()` and `Promise.race()`.
+27. Any questions for me?  

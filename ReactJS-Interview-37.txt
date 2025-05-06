@@ -11,4 +11,6 @@
 4. Explain APIs and the essential rules they must follow.  
 5. Share insights on Next.js and its practical advantages.  
 6. Describe the meaning of version number 1.2.3 in a `package.json` file.  
-7. Do you have any questions for me?  
+7. How do you pass data between Parent and Child components in ReactJS?  
+8. What are the different methods for optimizing web applications?  
+9. Do you have any questions for me?  

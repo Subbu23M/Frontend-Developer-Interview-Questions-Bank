@@ -1,0 +1,14 @@
+### **Company Name:** IES (Bangalore, KA)  
+
+### **Round One: Video-Based Interview (Google Meet)**  
+- **Date:** 06/05/2025  
+- **Duration:** 20 minutes  
+
+### **Interview Questions:**  
+1. Introduce yourself.  
+2. Provide an overview of your tech stack and project experience.  
+3. Discuss CSS, ES6, and Redux in detail.  
+4. Explain APIs and the essential rules they must follow.  
+5. Share insights on Next.js and its practical advantages.  
+6. Describe the meaning of version number 1.2.3 in a `package.json` file.  
+7. Do you have any questions for me?  

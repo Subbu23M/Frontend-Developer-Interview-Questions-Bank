@@ -1,0 +1,130 @@
+### **Company Name:** Declone Labs Pvt Ltd (Surat, GJ)  
+
+### **Round One: Video-Based Interview (Google Meet)**  
+- **Date:** 21/05/2025  
+- **Duration:** 50 minutes  
+
+### **Interview Questions:**  
+
+### **Aptitude Test Questions**
+1. Find the next number in the sequence: 2, 6, 12, 20, 30, …  
+   - a) *42  
+   - b) 44  
+   - c) 48  
+   - d) 52  
+
+2. If in a certain code, 'MANGO' is written as 'OCPIQ', how would 'APPLE' be written in the same code?  
+   - a) CQQNG  
+   - b) *CRRNG  
+   - c) CQQOH  
+   - d) CRQNH  
+
+3. Pointing to a man in a photograph, a woman said, "His brother’s father is the only son of my grandfather." How is the woman related to the man?  
+   - a) Mother  
+   - b) *Sister  
+   - c) Aunt  
+   - d) Daughter  
+
+4. A is taller than B. C is shorter than A but taller than B. Who is the shortest?  
+   - a) A  
+   - b) *B  
+   - c) C  
+
+5. Which number comes next in the series: 1, 4, 9, 16, ...?  
+   - a) 20  
+   - b) 24  
+   - c) *25  
+   - d) 36  
+
+6. If CDE = EDF, then EFH = ?  
+   - a) ABC  
+   - b) *GFI  
+   - c) IJK  
+   - d) EFG  
+
+7. Monica’s salary was reduced by 20%. What percentage increase is needed to restore it?  
+   - a) *25  
+   - b) 20  
+   - c) 33  
+   - d) 30  
+
+8. Given five desks (A, B, C, D, E) and five people (John, Mary, Peter, Sarah, Tom), each assigned to one desk:  
+   - John never sits at B.  
+   - Mary always sits at C.  
+   - Tom never sits at D.  
+   - Peter always sits at E.  
+   - If John sits at A, where can Sarah be?  
+     - a) B  
+     - b) C  
+     - c) *D  
+     - d) E  
+
+9. You are in a race and overtake the second person. What position are you now in?  
+   - a) First  
+   - b) *Second  
+   - c) Third  
+   - d) Fourth  
+
+10. If A is the mother of B, B is the sister of C, and C is the father of D, how is A related to D?  
+    - a) *Grandmother  
+    - b) Mother  
+    - c) Aunt  
+    - d) Sister  
+
+11. If A can complete a job in 5 days and B can complete the same job in 10 days, how long will it take for A and B to complete the job together?  
+    - a) *3.33 days  
+    - b) 3 days  
+    - c) 2.5 days  
+    - d) 4 days  
+
+12. If the ratio of boys to girls in a class is 3:2 and there are 30 students, how many girls are there?  
+    - a) 10  
+    - b) *12  
+    - c) 15  
+    - d) 18  
+
+13. If $500 is invested at an annual simple interest rate of 4%, what will be the total amount after 3 years?  
+    - a) *$560  
+    - b) $580  
+    - c) $600  
+    - d) $620  
+
+14. If 3 apples cost as much as 5 oranges, and 7 oranges cost as much as 2 melons, what is the ratio of the cost of an apple to the cost of a melon?  
+    - a) 3:14  
+    - b) *21:10  
+    - c) 15:14  
+    - d) 3:10  
+
+15. What is the value of (7 * 8 - 6 / 2)?  
+    - a) 50  
+    - b) 25  
+    - c) *53  
+
+16. At a conference, 12 members shook hands with each other before & after the meeting. How many total handshakes occurred?  
+    - a) 144  
+    - b) *132  
+    - c) 122  
+    - d) 120  
+
+17. A running man crosses a bridge of length 500 meters in 4 minutes. At what speed is he running?  
+    - a) 8.5 km/min  
+    - b) *7.5 km/min  
+    - c) 9 km/min  
+    - d) 6.5 km/min  
+
+18. The average of five consecutive numbers is 20. What is the smallest of these numbers?  
+    - a) 16  
+    - b) 17  
+    - c) *18  
+    - d) 19  
+
+19. If 30% of a number is 45, what is 50% of the same number?  
+    - a) 60  
+    - b) *75  
+    - c) 90  
+    - d) 150  
+
+#### **Technical Questions**
+1. Introduce yourself.  
+2. Explain the difference between `map()` and `reduce()`.  
+3. Write a function that calculates the total salary of each employee and returns an object where the key is the employee's name and the value is the total salary.

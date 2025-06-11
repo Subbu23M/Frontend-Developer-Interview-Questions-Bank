@@ -72,4 +72,5 @@
 - What are the differences between **Redux** and **Context API**?  
 
 #### **❓ General Question**  
+-Rate yourself in web development skills.
 - Do you have any questions for me?  

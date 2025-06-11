@@ -1,0 +1,75 @@
+### **Company Name:** Tectoro Consulting Pvt Ltd (Hyderabad, TG)  
+
+### **Round One: Video-Based Interview (Microsoft Teams)**  
+- **📅 Date:** 12/06/2025  
+- **⏳ Duration:** 36 minutes  
+
+### **Interview Questions Categorized**  
+
+#### **🖥️ HTML Questions**  
+- Explain the difference between class & id.  
+
+#### **🎨 CSS Questions**  
+- Explain the CSS Box Model.  
+- Explain CSS pseudo-selectors.  
+
+#### **💻 JavaScript Questions**  
+- Write a program to structure the following array:  
+  ```js
+  let arr = ["Apple", "Animals", "Bat", "Ball", "Cat", "Candy"];
+  ```
+  into an object:  
+  ```js
+  { A: ["Animals", "Apple"], B: ["Ball", "Bat"], C: ["Candy", "Cat"] }
+  ```
+- Explain ES6 features.  
+- Discuss array iteration methods.  
+- Difference between `slice()` & `splice()`.  
+- Convert the following array **without built-in methods**:  
+  ```js
+  let array = [1, 2, [4, 5, [7, 8]], [9, [10]]];
+  ```
+- Explain **Hoisting** in JavaScript.  
+- Explain **Shallow Copy vs. Deep Copy**.  
+- Explain the **Call Stack** in JavaScript.  
+- Explain **Promises & async/await**.  
+- Discuss **Higher Order Components (HOCs)**.  
+- What is the output of the following code?  
+  ```js
+  console.log("Start");
+
+  setTimeout(() => {
+    console.log("Timeout");
+  }, 0);
+
+  Promise.resolve().then(() => {
+    console.log("Promise");
+  });
+
+  console.log("End");
+  ```
+- What is the output of the following function?  
+  ```js
+  var a = 1;
+  function test() {
+    console.log(a);
+    var a = 2;
+  }
+  test();
+  ```
+
+#### **⚛️ ReactJS Questions**  
+- Explain **ReactJS**.  
+- Discuss **Reconciliation** in React.  
+- Difference between `useMemo()` & `useCallback()` hooks.  
+- How does state **persist** in management when a user refreshes the browser?  
+- Explain **Lifecycle methods in function components**.  
+- Optimization techniques in **ReactJS**.  
+- Explain **useEffect()** hook.  
+
+#### **🔄 Redux Questions**  
+- Explain the **Redux data flow**.  
+- What are the differences between **Redux** and **Context API**?  
+
+#### **❓ General Question**  
+- Do you have any questions for me?  

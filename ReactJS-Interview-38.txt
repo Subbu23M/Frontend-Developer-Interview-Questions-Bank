@@ -128,3 +128,10 @@
 1. Introduce yourself.  
 2. Explain the difference between `map()` and `reduce()`.  
 3. Write a function that calculates the total salary of each employee and returns an object where the key is the employee's name and the value is the total salary.
+const employeeList = [
+  { name: "Alice", salary: 3000 },
+  { name: "Bob", salary: 2500 },
+  { name: "Alice", salary: 2000 },
+  { name: "Bob", salary: 2200 },
+];
+// Output: { Alice: 5000, Bob: 4700 }

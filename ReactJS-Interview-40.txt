@@ -1,0 +1,18 @@
+🏢 Company: TechnoRishi Consulting Pvt Ltd (Bengaluru, KA)
+
+🎥Round 1 – Video Interview (via Microsoft Teams)
+    📅 Date:02 July 2025  
+    ⏱ Duration:*Approximately 8 minutes
+
+📚Interview Focus Areas
+
+1. Distinguish between ReactJS and React Native
+2. Explain how to configure a mobile app for cross-platform compatibility
+3. Purpose and usage of StyleSheet in React Native
+4. Understanding Flexbox layout in React Native
+5. Identify the component used to render lists of data in React Native
+6. Component responsible for handling touch interactions
+7. Explain async and await for asynchronous JavaScript operations
+8. Overview of JSON structure and API integration practices
+9. Usage of the TouchableHighlight component
+10. Commonly used library for navigation in React Native apps

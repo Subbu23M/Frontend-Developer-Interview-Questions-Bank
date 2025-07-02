@@ -1,0 +1,33 @@
+🏢 Company:Techugo (Noida, Uttar Pradesh)  
+🎥 Round 1 – Video Interview (Google Meet) 
+    📅 Date: 02 July 2025  
+    ⏱ Duration: 37 minutes  
+
+👤 Personal & Professional Background
+1. Brief self-introduction  
+2. Discussion on projects handled during professional experience  
+
+🌐 Web Fundamentals
+3. Semantic differences between `<aside>`, `<nav>`, `<article>`, and `<div>`  
+4. Key distinctions between **HTML4** and **HTML5**  
+5. Techniques for form validation in HTML  
+6. Differences between `display: none`, `visibility: hidden`, and `opacity: 0`  
+
+⚛️ React & JavaScript Core Concepts
+7. React reconciliation process explained  
+8. Explanation of **Promises** in JavaScript and related methods  
+9. Understanding and usage of `async` and `await`  
+10. Output analysis: `['1','2','3'].map(parseInt)`  
+11. Difference between `count++`, `++count`, and `count + 1`  
+
+🧠 Problem-Solving & Coding
+12. JavaScript program:
+```js
+const items = [
+  { id: 'a1', name: 'subbu' },
+  { id: 'b2', name: 'subbu' },
+  { id: 'c3', name: 'subbu' }
+];
+// Desired output: ['a1', 'c3']
+13. ReactJS logic to increment a number continuously and stop the process by clicking an "End" button  
+14. Handling and converting uploaded binary data from the backend into a JavaScript object

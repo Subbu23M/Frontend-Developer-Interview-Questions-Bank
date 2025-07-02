@@ -19,9 +19,10 @@
 9. Understanding and usage of `async` and `await`  
 10. Output analysis: `['1','2','3'].map(parseInt)`  
 11. Difference between `count++`, `++count`, and `count + 1`  
+12. Explanation of Event Delegation – how to attach events to a common ancestor for dynamic elements
 
 🧠 Problem-Solving & Coding
-12. JavaScript program:
+13. JavaScript program:
 ```js
 const items = [
   { id: 'a1', name: 'subbu' },
@@ -29,5 +30,5 @@ const items = [
   { id: 'c3', name: 'subbu' }
 ];
 // Desired output: ['a1', 'c3']
-13. ReactJS logic to increment a number continuously and stop the process by clicking an "End" button  
-14. Handling and converting uploaded binary data from the backend into a JavaScript object
+14. ReactJS logic to increment a number continuously and stop the process by clicking an "End" button  
+15. Handling and converting uploaded binary data from the backend into a JavaScript object

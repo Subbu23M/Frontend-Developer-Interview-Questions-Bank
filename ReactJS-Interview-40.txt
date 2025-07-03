@@ -16,3 +16,4 @@
 8. Overview of JSON structure and API integration practices
 9. Usage of the TouchableHighlight component
 10. Commonly used library for navigation in React Native apps
+11.What Are Effective Strategies for Optimizing a ReactJS Application?

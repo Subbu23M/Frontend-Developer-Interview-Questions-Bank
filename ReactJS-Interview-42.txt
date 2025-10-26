@@ -1,0 +1,13 @@
+### 🏢 Company: Sekyurity AI  
+📍 Location: ITI Gate, Bengaluru, Karnataka  
+
+### 🎥 Round 1 – Video Interview (Zoom)  
+📅 **Date:** 23 October 2025  
+⏱️ **Duration:** 45 minutes  
+
+### 💬 Interview Questions
+
+1. **Can you introduce yourself and share a bit about your background?**  
+2. **Please walk me through your previous work experience in detail.**  
+3. **What led you to choose ReactJS and JavaScript for your projects? Why not other technologies?**  
+4. **Do you have any questions for me?**
